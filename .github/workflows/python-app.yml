@@ -6,7 +6,7 @@ name: Python application
 on:
   push:
     branches: [ main ]
-  pull_request: puzzle.py
+  pull_request: Puzzle.py
     branches: [ main ]
 
 jobs:
